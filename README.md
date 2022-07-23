@@ -12,5 +12,4 @@ Every call to the API returns 25 entries, so the time to scrape each Dataset is 
 - 66 371 Mangas takes 55 min
 - 16 943 People takes 14 min
 
-The scraped Data has been recenlty uploaded on [kaggle](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist-jikan) (scaped on 17 July 2022),
-both the raw Jikan version and the cleaned one, so feel free to use it.
+The scraped Data has been recenlty uploaded on [kaggle](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist-jikan) (scaped on 17 July 2022), feel free to use it.
